@@ -1,8 +1,8 @@
 # vue-click-menu
 
-## Project setup
+## 安装
 ```
-npm install
+npm install vue-click-menu
 ```
 
 ### Compiles and hot-reloads for development

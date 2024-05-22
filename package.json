@@ -1,13 +1,22 @@
 {
   "name": "vue-click-menu",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "右键插件菜单", 
+  "publisher": "1580602879@qq.com",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humanlin123/vue-rightmenu.git"
+  },
+  "author": "humanlin",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^2.6.14"
+    "vue": "^2.6.14",
+    "vue-property-decorator": "^9.1.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-typescript": "~5.0.0",
